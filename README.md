@@ -1,4 +1,4 @@
 # MyCV
 
-## Сылка еа деплой:
+## Сылка на деплой:
 https://alexandermorgunov.github.io/MyCV/
