@@ -1,8 +1,8 @@
 :root {
   --MainColor: rgb(0, 0, 0);
   --Red: rgb(245, 27, 27);
-  --fontRDCLR: "REDCOLLAR";
-  --fontForText: "TT COMMONS";
+  --fontRDCLR: "Redcollar";
+  --fontForText: "TTCommons";
   --fontColor: rgb(255, 255, 255);
   --fontColorOpacity: rgba(255, 255, 255, 0.4);
 }
